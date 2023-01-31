@@ -13,4 +13,5 @@ Personas en general, hombres y mujeres
 * Garantizar la seguridad de nuestros usuarios.
 * Ayudar a personas en situación de vulnerabilidad que necesiten enviar un mensaje oculto a alguien.
 ## Enlace replit
-[Proyecto - Código SOS](https://codigo-sos.camila-nadinena.repl.co/)
+[Proyecto - Código SOS](https://Codigo-SOS.camila-nadinena.repl.co)
+[Proyecto - Código SOS - GitHub Pages](https://ruthllajaa.github.io/Proyecto-2/)
