@@ -1,0 +1,53 @@
+
+body{
+  text-align: center;
+  background-color: #f4f4b8;
+ background-image: url(assets/img/estamos para ti.png)
+}
+.msj1{
+  font-family: 'Alatsi'
+}
+h2{
+  font-size: 16px;
+}
+.msj3{
+  font-family: 'Alatsi'
+  border:2px solid white;
+  text-shadow: 0 0 15px #615c60, 0 0 15px #6c6569;
+  color: black;
+}
+btn1{
+  border: 2px solid white;
+}
+.msj2{
+  font-family: 'Alatsi'
+  border:2px solid black;
+  text-shadow: 0 0 15px #585656, 0 0 15px #696969;
+  color: black;
+}
+.text1{
+  border: 2px solid white;
+  box-shadow: inset 0 0 10px #a8ba21, 0 0 13px #e9f53d;
+    border-radius: 15px;
+  width: 540px;
+}
+.text2{
+    border: 2px solid white;
+  box-shadow: inset 0 0 10px #a8ba21, 0 0 13px #e9f53d;
+    border-radius: 15px;
+  width: 540px;
+}
+.button-regresar{
+   text-decoration: none;
+  background-color: #ffadf4;
+  border: 2px solid whitesmoke;
+  box-shadow: 0 0 30px #f797e2, 0 0 30px #f97efb;
+  border-radius: 10px;
+  color: white;
+  width: 10px;
+  padding: 10px;
+  margin: 20px;
+  height: 50px;
+  text-align: center;
+  font-family: 'Alatsi'
+}

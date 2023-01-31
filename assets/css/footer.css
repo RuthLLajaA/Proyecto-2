@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: cursive;
+  
+}
+footer{
+  width: 100%;
+  background-color: rgb(201, 146, 165,0.4);
+  box-shadow: 0 0 50px #90906f;
+  color: black;
+  margin-top: 50px;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding: 20px;
+  
+}
+.footer-div{
+  
+float:inline-end ;
+
+}
+.conteiner-body{
+ display: flex;
+  justify-content: space-between;
+}
+.clm2{
+  font-size: 11px;
+  color: black;
+}
+.clm2 p{
+  font-size: 14px;
+  color: black;
+}
+.clm3{
+  font-size: 11px;
+  color: black;
+}
+.clm3 p{
+  font-size: 14px;
+  color: black;
+}

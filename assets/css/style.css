@@ -1,0 +1,97 @@
+body{ 
+  text-align: center;
+  background-image: url(../img/huhu.png);
+}
+.container{
+  font-family: cursive;
+    border: 10px solid white;
+  box-shadow: inset 0 0 10px #a8ba21, 0 0 20px #e9f53d;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+  margin-left:15%;
+  margin-right: 60%;
+}
+.neon{
+  margin-top: 5%;
+  text-shadow: 0 0 15px #f59ee2, 0 0 15px #f58ec5;
+  color: white;
+  font-family: 'Kavoon';
+}
+.neon2{
+  text-shadow: 0 0 15px #f471d8, 0 0 15px #f764e3;
+  color: #ffffff;
+}
+.boton{
+  text-decoration: none;
+  background-color: #ffadf4;
+  border: 2px solid whitesmoke;
+  box-shadow: 0 0 30px #f797e2, 0 0 30px #f97efb;
+  border-radius: 10px;
+  color: white;
+  width: 150px;
+  padding: 30px;
+  height: 70px;
+  text-align: center;
+  font-family: 'Alatsi'
+}
+.boton:hover{
+  background-color: #a7f9fb;
+  box-shadow: 0 0 50px #91fdf0, 0 0 15px #75fdff;
+  width: 180px;
+  padding: 30px;
+  height: 70px;
+  font-size: 1.2rem;
+}
+.neon3 {
+  font-family: monospace;
+  margin: 0;
+  font-size: 20px;
+  text-shadow: 0 0 5px white, 0 0 15px white, 0 0 30px white;
+}
+#ocultar{
+  
+height: 220px;
+
+}
+.flicker1 {
+  animation: parpadear 2s infinite backwards steps(3);
+}
+.flicker2 {
+  animation: parpadear 2.5s infinite backwards steps(4);
+}
+.flicker3 {
+  animation: parpadear 1.5s infinite backwards steps(2);
+}
+@keyframes parpadear {
+  to {
+    color: #fbb6b6;
+    text-shadow: none;
+  }
+}
+p{
+  color: #9b2222;
+}
+.desbtn{
+  border: 5px solid white;
+    height: 600px;
+    margin: auto;
+  text-align: center;
+  box-shadow: inset 0 0 20px #f09ed6, 0 0 20px #afb1e9;
+    border-radius: 15px;
+  text-decoration: none;
+  color: #702929;
+  width: 14px;
+  padding: 6px;
+  font-family: 'Alatsi'
+}
+  .desbtn {
+  animation: parpadear 1.5s infinite backwards steps(2);
+}
+@keyframes parpadear {
+  to {
+    color: #fafafa;
+    text-shadow: none;
+  }
+
